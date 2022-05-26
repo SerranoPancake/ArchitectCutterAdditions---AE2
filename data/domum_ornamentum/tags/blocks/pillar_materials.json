@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ae2:quartz_block",
+	"ae2:fluix_block",
+	"ae2:sky_stone_block",
+	"ae2:smooth_sky_stone_block"
+  ]
+}
